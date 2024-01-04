@@ -1,0 +1,30 @@
+.notebook{
+    height: 8in;
+    width: 6in;
+    background-color: #1b0e47;
+}
+.nh1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-top: 30px;
+    -webkit-text-stroke: 2px;
+    -webkit-text-stroke-color: aliceblue;
+    -webkit-animation: alternate;
+}
+.bgd{
+    background-image: url(images/Unsplash.sds.jpg);
+    border: 2px firebrick solid;
+    text-align: right;
+}
+
+.opt{
+    padding-right: 50px;
+    color: skyblue;
+}
+
+.mkkkj{
+    border: 5px tomato dashed;
+    background-image: url(images/IMG_20231124_205222.jpg);
+    object-fit: cover;
+}
